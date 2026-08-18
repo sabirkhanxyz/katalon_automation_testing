@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+open browser,,,,18-08-2026 16:40:26,18-08-2026 16:40:26,0.226s,ERROR
+,,,,,,,
+Test Cases/Test Scripting mod,,,,18-08-2026 16:40:26,18-08-2026 16:40:26,0.004s,ERROR
+,,,,,,,
+Test Cases/Manual_Test,,,,18-08-2026 16:40:26,18-08-2026 16:40:26,0.004s,ERROR
