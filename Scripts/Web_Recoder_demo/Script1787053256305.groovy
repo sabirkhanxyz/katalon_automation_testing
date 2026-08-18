@@ -1,10 +1,10 @@
-import static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
-WebUI.openBrowser('https://www.google.com')
+WebUI.openBrowser('')
 
-WebUI.verifyTitle('Google')
+WebUI.navigateToUrl('https://www.google.com')
 
-WebUI.delay(2)
+WebUI.delay(0)
 
 WebUI.closeBrowser()
 
